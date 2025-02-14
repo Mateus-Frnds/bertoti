@@ -27,3 +27,8 @@ How an organization makes decisions, based on the lessons of Time and Change and
 
 What I understood:
 There must be a vision for any developed software, so that we can have a short, medium and long term perception on how that technology may change and continue to be relevant in that user-case.
+
+#3. Examples of trade-offs:
+- Choosing python, you will lose some data transfer speed, on other hand, the language itself is simpler.
+- Choosing C#, you will lose the simplicity of programming in a "symple" lanugage. but the speed is closer to the actual assembler.
+- Even though it can run on anything (specially Android devices), Java is being substituted by other languages, since it's not developing as fast as C#, for example.
